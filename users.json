@@ -1,0 +1,24 @@
+{
+    "user1":{
+        "uname":"doremi",
+        "profession":"frontenddeveloper",
+        "id":1
+    },
+    "user2":{
+        "uname":"sizuka",
+        "profession":"backenddeveloper",
+        "id":2
+    },
+    "user3":{
+        "uname":"doremon",
+        "profession":"fullstackdeveloper",
+        "id":3
+    },
+    "user4":{
+        "uname":"nobita",
+        "profession":"roaming on roads",
+        "id":4
+    }
+
+
+}
